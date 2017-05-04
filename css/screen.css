@@ -1,0 +1,304 @@
+body, html {
+  font-family: 'Comfortaa', cursive;
+  height: 100%;
+  width: 100%;
+}
+
+.hero-background {
+  background-image: url("https://i.imgur.com/S5Gyuwf.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  position: absolute;
+  margin-left: 360px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFF;
+  font-size: 20px;
+}
+
+#climate-change {
+  text-align: center;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+}
+
+.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 40px;
+  text-align: center;
+}
+
+li {
+  padding-left: 25px;
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 18px;
+}
+
+li a:hover {
+  border-bottom: 3px solid;
+}
+
+.logo {
+  padding-top: 720px;
+  padding-left: 740px;
+  width: 300px;
+  height: auto;
+}
+
+#climate {
+  padding-top: 90px;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+#climate-two {
+  padding-top: 90px;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.climate-change-background {
+  background-image: url("https://i.imgur.com/2AmxTZ0.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.change {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 1000px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+.change-two {
+  padding-top: 100px;
+  position: absolute;
+  left: 1000px;
+  right: 100px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+#climate-resources {
+  text-align: center;
+  color: #FFF;
+  font-size: 35px;
+}
+
+#climate-resources-two {
+  text-align: center;
+  color: #FFF;
+  font-size: 35px;
+}
+
+#climate-resources-three {
+  text-align: center;
+  color: #FFF;
+  font-size: 35px;
+}
+
+#impact-heading {
+  padding-top: 90px;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.impact-background {
+  background-image: url("http://i.imgur.com/5c3QUYT.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.impact {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 1000px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+.impact-two {
+  padding-top: 100px;
+  position: absolute;
+  left: 1000px;
+  right: 100px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+#help-heading {
+  padding-top: 90px;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.help-background {
+  background-image: url("http://i.imgur.com/ajLZqpt.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.help {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 100px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+  text-align: center;
+}
+
+.help-two {
+  padding-top: 100px;
+  position: absolute;
+  left: 1000px;
+  right: 100px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+.resource-click {
+  padding-top: 800px;
+  text-align: center;
+  color: #FFF;
+  font-size: 45px;
+}
+
+#resources-background {
+  background-image: url("http://i.imgur.com/Kmg2RMF.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.resources-text {
+  position: absolute;
+  margin-left: 360px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFF;
+  font-size: 20px;
+}
+
+.resources-change {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 10px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+}
+
+#senior-background {
+  background-image: url("http://i.imgur.com/Kb6HmQw.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.senior-text {
+  position: absolute;
+  margin-left: 360px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFF;
+  font-size: 20px;
+}
+
+.america-background {
+  background-image: url("http://i.imgur.com/ZnpFMrQ.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+a:hover {
+  border-bottom: 3px solid;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.vote {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 10px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+  text-align: center;
+}
+
+.extra-resources-background {
+  background-image: url("http://i.imgur.com/ajLZqpt.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.extra-help {
+  padding-top: 100px;
+  position: absolute;
+  left: 200px;
+  right: 10px;
+  line-height: 47px;
+  color: #FFF;
+  font-size: 25px;
+  text-align: center;
+}
+
