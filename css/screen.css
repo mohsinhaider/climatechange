@@ -84,7 +84,7 @@ li a:hover {
 }
 
 .change {
-  padding-top: 100px;
+  padding-top: 40px;
   position: absolute;
   left: 50px;
   right: 50px;
@@ -94,7 +94,7 @@ li a:hover {
 }
 
 .change-two {
-  padding-top: 400px;
+  padding-top: 310px;
   position: absolute;
   left: 50px;
   right: 50px;
@@ -138,7 +138,7 @@ li a:hover {
 }
 
 .impact {
-  padding-top: 100px;
+  padding-top: 10px;
   position: absolute;
   left: 50px;
   right: 50px;
@@ -148,7 +148,7 @@ li a:hover {
 }
 
 .impact-two {
-  padding-top: 400px;
+  padding-top: 300px;
   position: absolute;
   left: 50px;
   right: 50px;
@@ -174,7 +174,7 @@ li a:hover {
 }
 
 .help {
-  padding-top: 100px;
+  padding-top: 10px;
   position: absolute;
   left: 200px;
   right: 100px;
@@ -195,7 +195,7 @@ li a:hover {
 }
 
 .resource-click {
-  padding-top: 800px;
+  padding-top: 610px;
   text-align: center;
   color: #FFF;
   font-size: 45px;
