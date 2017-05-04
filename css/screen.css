@@ -86,18 +86,18 @@ li a:hover {
 .change {
   padding-top: 100px;
   position: absolute;
-  left: 200px;
-  right: 1000px;
+  left: 50px;
+  right: 50px;
   line-height: 47px;
   color: #FFF;
   font-size: 25px;
 }
 
 .change-two {
-  padding-top: 100px;
+  padding-top: 400px;
   position: absolute;
-  left: 1000px;
-  right: 100px;
+  left: 50px;
+  right: 50px;
   line-height: 47px;
   color: #FFF;
   font-size: 25px;
@@ -140,18 +140,18 @@ li a:hover {
 .impact {
   padding-top: 100px;
   position: absolute;
-  left: 200px;
-  right: 1000px;
+  left: 50px;
+  right: 50px;
   line-height: 47px;
   color: #FFF;
   font-size: 25px;
 }
 
 .impact-two {
-  padding-top: 100px;
+  padding-top: 400px;
   position: absolute;
-  left: 1000px;
-  right: 100px;
+  left: 50px;
+  right: 50px;
   line-height: 47px;
   color: #FFF;
   font-size: 25px;
